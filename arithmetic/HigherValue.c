@@ -21,7 +21,7 @@ int main (){
 }
 /* Next:
 1: make it check if the numbers are equal and present a message informing there's no higher number.
-2: make sure it can work with negative integers.
+2: make sure it can work with negative integers: already, by default.
 3: use floating point numbers.
 4: use double type.
 */
