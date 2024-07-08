@@ -28,7 +28,7 @@
 		}
 		else if (delta == 0) {
 			delta = (x1 = x2 = ((-b)+sqrt(delta))/(2*a));
-			printf("Result: %.2f.\n", x1);
+         			printf("Result: %.2f.\n", x1);
 		}
 		//if delta higher than 0
 		else {
@@ -41,3 +41,4 @@
 		printf("Variable a (angular coefficient) must be other than 0.\n");
 	}
  }
+
